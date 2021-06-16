@@ -2,7 +2,7 @@
 
 ## 🖥 Preview
 <p align = "center">
-  <img src = "https://raw.githubusercontent.com/ecpieritz/b" width = "800">
+  <img src = "https://github.com/ecpieritz/flower-shop/blob/main/assets/img/print-flower-shop.png?raw=true" width = "800">
 </p>
 
 ## 📖 About
